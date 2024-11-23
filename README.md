@@ -35,7 +35,7 @@ The dataset used for this project can be downloaded from [this link](https://dri
 ## **Setup Instructions** ⚙️  
 1. Clone this repository.  
    ```bash
-   git clone https://github.com/your-username/job-recommendation-system.git
+   git clone https://github.com/dev28616/job-recommendation-system.git
    ```  
 2. Download the dataset from the [provided link](https://drive.google.com/file/d/19TvNnlalePTS010IEzs-ZFOOpZ-FpyGe/view?usp=drive_link) and place it in the appropriate folder.  
 3. Run the project.
